@@ -91,7 +91,7 @@ Included below is an Entity-Relationship diagram illustrating the dataset's stru
 	- Between 2018 to 2021, average delivery times continued to decline but at a slower rate than before.
 ​
 ### 5. Online vs. In-Store Performance
-- [View Query]([https://github.com/ChrisCracksData/Global-Electronics-Retailer-SQL-Business-Analysis/blob/52389c45532a4636b7fddce89f322657bd940218/queries/04_avg_delivery_times.sql](https://github.com/ChrisCracksData/Global-Electronics-Retailer-SQL-Business-Analysis/blob/52389c45532a4636b7fddce89f322657bd940218/queries/05_online_vs_instore.sql))
+- [View Query](https://github.com/ChrisCracksData/Global-Electronics-Retailer-SQL-Business-Analysis/blob/52389c45532a4636b7fddce89f322657bd940218/queries/05_online_vs_instore.sql)
 - [View Output](https://github.com/ChrisCracksData/Global-Electronics-Retailer-SQL-Business-Analysis/blob/52389c45532a4636b7fddce89f322657bd940218/outputs/summary_tables.xlsx)
 - **Key Findings:**
 	- Online and in-store orders show minimal differences  in average value.
